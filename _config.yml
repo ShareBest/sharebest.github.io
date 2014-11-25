@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Share Best One
+description: Valuable Reading.
+meta_description: "Share Best One, Valuable Reading Here"
 
 markdown: redcarpet
 highlighter: pygments
@@ -11,4 +11,4 @@ domain_name: 'http://yourblog-domain.com'
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         'sharebestone'
