@@ -40,5 +40,5 @@ date:   2014-11-25 21:18:00
 关注内容=关注人 
  
 > ShareBestOne用于分享个人认为的有价值的文章，每周三发布。  
-邮件订阅，请点击右上角的Subscrib。  
-想分享你的见知，请联系chufuxi@gmail.com
+邮件订阅，请点击右上角的SUBSCRIBE。  
+如果你有不得不分享的好文章，欢迎联系我chufuxi@gmail.com
